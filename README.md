@@ -11,4 +11,4 @@ This is my second Python project.
 ## How to Run
 
 ```bash
-pythonguess.py
+python guess.py
